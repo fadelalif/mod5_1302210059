@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\source\repos\jurnalmod5_1302210059\jurnalmod5_1302210059\bin\Debug\net6.0\jurnalmod5_1302210059.exe
+C:\Users\PRAKTIKAN\source\repos\jurnalmod5_1302210059\jurnalmod5_1302210059\bin\Debug\net6.0\jurnalmod5_1302210059.deps.json
+C:\Users\PRAKTIKAN\source\repos\jurnalmod5_1302210059\jurnalmod5_1302210059\bin\Debug\net6.0\jurnalmod5_1302210059.runtimeconfig.json
+C:\Users\PRAKTIKAN\source\repos\jurnalmod5_1302210059\jurnalmod5_1302210059\bin\Debug\net6.0\jurnalmod5_1302210059.dll
+C:\Users\PRAKTIKAN\source\repos\jurnalmod5_1302210059\jurnalmod5_1302210059\bin\Debug\net6.0\jurnalmod5_1302210059.pdb
+C:\Users\PRAKTIKAN\source\repos\jurnalmod5_1302210059\jurnalmod5_1302210059\obj\Debug\net6.0\jurnalmod5_1302210059.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\source\repos\jurnalmod5_1302210059\jurnalmod5_1302210059\obj\Debug\net6.0\jurnalmod5_1302210059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\source\repos\jurnalmod5_1302210059\jurnalmod5_1302210059\obj\Debug\net6.0\jurnalmod5_1302210059.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\source\repos\jurnalmod5_1302210059\jurnalmod5_1302210059\obj\Debug\net6.0\jurnalmod5_1302210059.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\source\repos\jurnalmod5_1302210059\jurnalmod5_1302210059\obj\Debug\net6.0\jurnalmod5_1302210059.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\source\repos\jurnalmod5_1302210059\jurnalmod5_1302210059\obj\Debug\net6.0\jurnalmod5_1302210059.dll
+C:\Users\PRAKTIKAN\source\repos\jurnalmod5_1302210059\jurnalmod5_1302210059\obj\Debug\net6.0\refint\jurnalmod5_1302210059.dll
+C:\Users\PRAKTIKAN\source\repos\jurnalmod5_1302210059\jurnalmod5_1302210059\obj\Debug\net6.0\jurnalmod5_1302210059.pdb
+C:\Users\PRAKTIKAN\source\repos\jurnalmod5_1302210059\jurnalmod5_1302210059\obj\Debug\net6.0\jurnalmod5_1302210059.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\source\repos\jurnalmod5_1302210059\jurnalmod5_1302210059\obj\Debug\net6.0\ref\jurnalmod5_1302210059.dll
